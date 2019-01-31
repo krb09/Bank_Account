@@ -1,0 +1,7 @@
+Event	CompSymbol	Number	PricePerShare	TotalValue
+	
+Buy	GOOG		4	568.964		568.964		
+Buy	GOOG		1	568.964		568.964		
+Buy	GOOG		2	579.964		579.964		
+Buy	GOOG		2	569.964		569.964		
+Buy	AMZN		10	139.66		139.66		

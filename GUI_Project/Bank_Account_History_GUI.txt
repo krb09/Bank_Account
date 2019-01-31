@@ -1,0 +1,15 @@
+Event		Amount		Balance
+Deposit		100		11449.1		
+Deposit		1000		12449.1		
+Deposit		1000		13449.1				
+BUYYShare	2275.86		13725		
+BUYYShare	579.964		9753.2		
+BUYYShare	1139.93		9733.21		
+Withdraw		100		7353.35		
+Deposit		100		7453.35		
+Withdraw		100		7353.35		
+BUYYShare	1159.93		8513.28		
+BUYYShare	1326.6		9839.88		
+Deposit		1000		5866.82		
+Withdraw		1000		4866.82		
+Deposit		100		4966.82		
